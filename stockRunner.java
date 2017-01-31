@@ -7,8 +7,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 /**
- * Program allows user to enter any stock ticker and returns information about that stock's current status.
- * If the user enters the wrong stock ticker the program prints a message to console and terminates process.
+ * Program allows user to enter any stock ticker and returns information about that stock's current status
+ * If the user enters the wrong stock ticker the program prints a message to console and terminates process
  * 
  * Jason Navi
  * 1/12/2017
