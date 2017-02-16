@@ -14,6 +14,8 @@ IDE used: BlueJ
 
 Libraries used: java.util.*, java.io.*, java.util.Scanner, java.net.URL, java.net.URLConnection, java.IOException, java.util.ArrayList
 
+Classes: stockRunner
+
 How to Run: Type in any stock ticker (not case sensitive) and click enter. If you want to print out more than one stock, put a comma and a space in between each stock ticker. If you want to stop the program, then type in "STOP" (not case sensitive) and the program will exit. Do not type in stop when trying to print out more than one stock. These are both acceptable inputs: "GooG" or "msFt, aaPl". Typing in "Goog" would print: 
 
 Company Name: Alphabet Inc.
